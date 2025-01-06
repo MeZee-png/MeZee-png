@@ -27,7 +27,7 @@
 </div>
 
 ###
-
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=<userid>" alt="GitHub Streak Stats" style="width: 40%; height: auto;" />
 <div align="left">
   <a href="https://x.com/MeZee_MeZe" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
