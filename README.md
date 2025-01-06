@@ -6,13 +6,11 @@
 
 ###
 
-<div align="left">
-  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3prNmZoenY2aTdvMzZsaXM4bDBoYnQ3M21taGVqMHYydjJ1ajM2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0TyN7VzemiDaG8vmjT/giphy-downsized.gif"  />
-</div>
+<img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3prNmZoenY2aTdvMzZsaXM4bDBoYnQ3M21taGVqMHYydjJ1ajM2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0TyN7VzemiDaG8vmjT/giphy-downsized.gif"  />
 
 ###
 
-<p align="left">Currently learning Kotlin.</p>
+<h3 align="left">🌱Currently learning Kotlin.<br><br>🎸I play Guitar and bass.</h3>
 
 ###
 
